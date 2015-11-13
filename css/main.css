@@ -44,3 +44,27 @@ body{
     font-size: 1.2em;
     padding-top: 10px;
 }
+
+footer{
+  background-color: #D64541;
+  position: absolute;
+  width: 100%;
+  height:auto;
+}
+
+footer li{
+  display: inline-block;
+  list-style: none;
+  padding: 2%;
+  float: right;
+}
+
+footer p{
+  float: left;
+  padding: 2%;
+}
+
+footer a, footer p{
+  color:#fff;
+  vertical-align: middle;
+}
